@@ -1,0 +1,23 @@
+/* Nav */
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&family=Julius+Sans+One&family=Khula:wght@300;400&family=Nunito:wght@200&display=swap');
+/* Home - Portfolio */
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&family=Josefin+Sans:wght@500&family=Julius+Sans+One&family=Khula:wght@300;400&family=Nunito:wght@200&family=Prompt:ital,wght@0,600;1,500&display=swap');
+/* Dev Lang Tools */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=El+Messiri:wght@700&family=Gloria+Hallelujah&family=Josefin+Sans:wght@500&family=Julius+Sans+One&family=Khula:wght@300;400&family=Nunito:wght@200&family=Prompt:ital,wght@0,600;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+html {
+  font-size: 62.5%;
+}
+p {
+  font-size: 1.6rem;
+}
+.App {
+  text-align: center;
+  min-width: 320px;
+}
